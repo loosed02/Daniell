@@ -1,5 +1,3 @@
-.commands/
-.events/
-.IMG/
-.lib/
-.node_modules
+# Dependency directories
+node_modules/
+package-lock.json
