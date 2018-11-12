@@ -9,8 +9,7 @@ bin-release/
 .commmands/
 .events/
 .IMG/
-.lib/
-.node_modules/
+.node_modules
 
 # Executables
 *.swf
