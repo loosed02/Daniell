@@ -1,3 +1,7 @@
 # Dependency directories
 node_modules/
+commands/
+events/
+IMG/
+lib/
 package-lock.json
