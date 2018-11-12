@@ -1,5 +1,5 @@
-commands
-events
-IMG
-lib
-node_modules
+.commands/
+.events/
+.IMG/
+.lib/
+.node_modules/
